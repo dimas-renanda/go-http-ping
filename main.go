@@ -1,3 +1,4 @@
+// go-http-ping: sends HTTP requests and reports latency
 package main
 
 import (
